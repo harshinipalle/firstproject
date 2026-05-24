@@ -1,0 +1,57 @@
+Interview Answer (IMPORTANT)
+
+👉OOP (Object-Oriented Programming) is a way of writing code using objects (real-world entities).
+
+	Instead of writing loose functions, we organize code into:
+
+	Classes (blueprints)-A class is a blueprint.
+	Objects (real instances)-An object is an instance of a class.
+
+👉ENCAPSULATION Definition: Wrapping data + methods together & hiding data using private.
+
+👉Why Encapsulation?
+	Data protection
+	Controlled access
+	Secure cod
+
+Q: Why use private variables?
+👉 To prevent direct access & control data via methods.
+
+👉INHERITANCE: One class inherits another.
+
+👉Why use inheritance?
+ 	Code reuse + reduces duplication
+
+Inheritance gives access to:
+
+✔ public methods
+✔ protected methods
+❌ private methods (NOT accessible)
+
+👉 POLYMORPHISM: One thing, many forms
+
+👉Q: Overloading vs Overriding?
+	Overloading → same method name, different parameters
+	Overriding → child class changes parent behavior
+
+👉6. ABSTRACTION: Hiding implementation, showing only essentials.
+
+👉Q: Abstract class vs Interface?
+	Abstract → can have both abstract + normal methods
+	Interface → only abstract methods (Java 8+: default allowed)
+
+🔷 🔥 FINAL INTERVIEW SUMMARY
+Concept	Key Point
+Class/Object	Blueprint vs Instance
+Encapsulation	Data hiding
+Inheritance	Code reuse
+Polymorphism	Many forms
+Abstraction	Hide details
+
+👉 Q: Why do we use separate Main class?
+
+Answer: To separate execution logic from business logic and maintain clean design.
+
+Q: Why use this keyword?
+
+Answer: To differentiate between instance variables and method parameters when they have the same name.-
